@@ -10,6 +10,8 @@
 
 ## description:
 
+#### متاسفانه دسترسی و امکان آپلود دیتاست به علت مشکلات فنی پاک شدن از دیسک امکان پذیر نبود.
+
 در این پروژه از کتابخانه pandas برای آماده کردن داده ها برای مدل سازی استفاده کردم
 
 بعد از drop کردن کردن outlier ها و handle کردن داده های NaN از تکنیک one-hot encoding برای ستون محله استفاده کردم
@@ -22,7 +24,8 @@
 
 برای استفاده از صفحه وب ابتدا server.py سپس app.html را اجرا کنید.
 
-is used these modules and techniques:
+### used these modules and techniques:
+
 1. pandas
 2. one hot encoding
 3. gridsearch-cv
@@ -32,7 +35,7 @@ is used these modules and techniques:
 7. flask
 8. javascript
 
-webpage images:
+### webpage images:
 
 ![Screenshot 2024-08-03 141739](https://github.com/user-attachments/assets/6faf2e5c-cb18-4696-a244-3861dfc63d7f)
 
