@@ -1,5 +1,15 @@
 # tehran_house_price_prediction_regression
 
+## requirements:
+
+[![Generic badge](https://img.shields.io/badge/python-3.9-yellow.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/numpy-1.26.4-yellow.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/pandas-2.1.4-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/flask-3.0.3-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/scikit_learn-1.4.2-green.svg)](https://shields.io/)
+
+## description:
+
 در این پروژه از کتابخانه pandas برای آماده کردن داده ها برای مدل سازی استفاده کردم
 
 بعد از drop کردن کردن outlier ها و handle کردن داده های NaN از تکنیک one-hot encoding برای ستون محله استفاده کردم
