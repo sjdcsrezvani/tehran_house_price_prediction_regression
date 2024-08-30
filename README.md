@@ -35,10 +35,6 @@
 7. flask
 8. javascript
 
-### webpage images:
-
-![Screenshot 2024-08-03 141739](https://github.com/sjdcsrezvani/Hotel_Listing_System_django/blob/da1015f2fb4bbaa65672ca92d7a55241a4e44dbb/Database%20ER%20diagram%20(crow's%20foot).jpeg)
-
-![Screenshot 2024-08-03 141739](https://github.com/sjdcsrezvani/Hotel_Listing_System_django/blob/main/Database%20ER%20diagram%20(crow's%20foot).jpeg)
+### webpage image:
 
 ![Screenshot 2024-08-03 141750](https://github.com/user-attachments/assets/97e01048-f501-4e3e-91ab-24c878ac801b)
