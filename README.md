@@ -37,6 +37,8 @@
 
 ### webpage images:
 
-![Screenshot 2024-08-03 141739](https://github.com/user-attachments/assets/6faf2e5c-cb18-4696-a244-3861dfc63d7f)
+![Screenshot 2024-08-03 141739](Database ER diagram (crow's foot).jpeg)
+
+![Screenshot 2024-08-03 141739](https://github.com/sjdcsrezvani/Hotel_Listing_System_django/blob/main/Database%20ER%20diagram%20(crow's%20foot).jpeg)
 
 ![Screenshot 2024-08-03 141750](https://github.com/user-attachments/assets/97e01048-f501-4e3e-91ab-24c878ac801b)
